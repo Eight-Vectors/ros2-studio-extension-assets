@@ -44,6 +44,18 @@ The ROS2 Studio Extension Assets repository serves as a visual guide for develop
 - **Description**: Demonstrates inspection and debugging of ROS messages and services
 - **Use Case**: Understanding message structure and service interactions
 
+### 7. **Publishing Topic** 📤
+
+- **File**: `gifs/publishing-topic.gif`
+- **Description**: Shows how to publish messages to ROS topics directly from VS Code
+- **Use Case**: Testing topic communication and sending data to ROS nodes
+
+### 8. **Calling Service** 📞
+
+- **File**: `gifs/calling-service.gif`
+- **Description**: Demonstrates how to call ROS services with custom parameters through the extension
+- **Use Case**: Interacting with ROS services for testing and development
+
 ## 🚀 Getting Started
 
 ## 📁 Repository Structure
@@ -58,7 +70,9 @@ ros2-studio-extension-assets/
 │   ├── topic-visualization.gif
 │   ├── node-parameters.gif
 │   ├── bag-recorder.gif
-│   └── message-service-inspector.gif
+│   ├── message-service-inspector.gif
+│   ├── publishing-topic.gif
+│   └── calling-service.gif
 └── .gitignore
 ```
 
